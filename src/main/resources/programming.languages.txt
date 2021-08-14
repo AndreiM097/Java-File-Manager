@@ -1,0 +1,37 @@
+HTML
+HTML5
+CSS
+Java
+JavaScript
+C
+C++
+C#
+Python
+Ruby
+Swift
+Android
+Kotlin
+Arduino
+Raspberry
+.NET
+PHP
+Bootstrap
+Machine learning
+AI
+Artificial intelligence
+MariaDB
+MySQL
+MongoDB
+H2
+H2DB
+Spring
+SpringBoot
+Angular
+iOS
+React
+React native
+Design Patterns
+OOP
+Object Oriented Programming
+Ubuntu
+Linux

@@ -1,0 +1,10 @@
+.?Q?
+7z
+AAPKG
+APK
+BIN
+DMG
+gzip
+lzip
+RAR
+zip
