@@ -1,0 +1,2 @@
+# Java-File-Manager
+I have created this app that I use to organize files from the downloads folder like images, music, videos, documents, etc. It can also organize files that contain specific keywords in their name or a variety of different courses mostly related to the IT field(and some non-related) like courses, books, adobe courses, blender, etc. It will take the files from the first given path one by one, check their name and extension, and then it will move them to the right folder.
